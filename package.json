@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-tbs",
+  "version": "1.1.2",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "bootstrap", 
+    "sass",
+  ],
+  "description": "A basic TypeScript template for Create React App with Bootstrap and Sass.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cuvar/cra-template-tbs.git",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/cuvar/cra-template-tbs/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
