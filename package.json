@@ -7,7 +7,7 @@
     "template",
     "typescript",
     "bootstrap", 
-    "sass",
+    "sass"
   ],
   "description": "A basic TypeScript template for Create React App with Bootstrap and Sass.",
   "repository": {
