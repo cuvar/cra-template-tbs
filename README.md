@@ -12,7 +12,7 @@ To use this template, add `--template tbs` when creating a new app.
 For example:
 
 ```sh
-npx create-react-app my-app --template tbs
+npx create-react-app [name] --template tbs
 ```
 
 For more information, please refer to:
